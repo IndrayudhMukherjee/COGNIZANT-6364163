@@ -1,0 +1,14 @@
+/Users/indrayudhsmac/Desktop/COGNIZ-SOLUTIONS/WEEK1-IN C#/SearchProject/bin/Debug/net9.0/SearchProject
+/Users/indrayudhsmac/Desktop/COGNIZ-SOLUTIONS/WEEK1-IN C#/SearchProject/bin/Debug/net9.0/SearchProject.deps.json
+/Users/indrayudhsmac/Desktop/COGNIZ-SOLUTIONS/WEEK1-IN C#/SearchProject/bin/Debug/net9.0/SearchProject.runtimeconfig.json
+/Users/indrayudhsmac/Desktop/COGNIZ-SOLUTIONS/WEEK1-IN C#/SearchProject/bin/Debug/net9.0/SearchProject.dll
+/Users/indrayudhsmac/Desktop/COGNIZ-SOLUTIONS/WEEK1-IN C#/SearchProject/bin/Debug/net9.0/SearchProject.pdb
+/Users/indrayudhsmac/Desktop/COGNIZ-SOLUTIONS/WEEK1-IN C#/SearchProject/obj/Debug/net9.0/SearchProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/indrayudhsmac/Desktop/COGNIZ-SOLUTIONS/WEEK1-IN C#/SearchProject/obj/Debug/net9.0/SearchProject.AssemblyInfoInputs.cache
+/Users/indrayudhsmac/Desktop/COGNIZ-SOLUTIONS/WEEK1-IN C#/SearchProject/obj/Debug/net9.0/SearchProject.AssemblyInfo.cs
+/Users/indrayudhsmac/Desktop/COGNIZ-SOLUTIONS/WEEK1-IN C#/SearchProject/obj/Debug/net9.0/SearchProject.csproj.CoreCompileInputs.cache
+/Users/indrayudhsmac/Desktop/COGNIZ-SOLUTIONS/WEEK1-IN C#/SearchProject/obj/Debug/net9.0/SearchProject.dll
+/Users/indrayudhsmac/Desktop/COGNIZ-SOLUTIONS/WEEK1-IN C#/SearchProject/obj/Debug/net9.0/refint/SearchProject.dll
+/Users/indrayudhsmac/Desktop/COGNIZ-SOLUTIONS/WEEK1-IN C#/SearchProject/obj/Debug/net9.0/SearchProject.pdb
+/Users/indrayudhsmac/Desktop/COGNIZ-SOLUTIONS/WEEK1-IN C#/SearchProject/obj/Debug/net9.0/SearchProject.genruntimeconfig.cache
+/Users/indrayudhsmac/Desktop/COGNIZ-SOLUTIONS/WEEK1-IN C#/SearchProject/obj/Debug/net9.0/ref/SearchProject.dll

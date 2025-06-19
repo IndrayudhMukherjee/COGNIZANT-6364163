@@ -1,0 +1,14 @@
+/Users/indrayudhsmac/Desktop/COGNIZ-SOLUTIONS/WEEK1-IN C#/ForecastProject/bin/Debug/net9.0/ForecastProject
+/Users/indrayudhsmac/Desktop/COGNIZ-SOLUTIONS/WEEK1-IN C#/ForecastProject/bin/Debug/net9.0/ForecastProject.deps.json
+/Users/indrayudhsmac/Desktop/COGNIZ-SOLUTIONS/WEEK1-IN C#/ForecastProject/bin/Debug/net9.0/ForecastProject.runtimeconfig.json
+/Users/indrayudhsmac/Desktop/COGNIZ-SOLUTIONS/WEEK1-IN C#/ForecastProject/bin/Debug/net9.0/ForecastProject.dll
+/Users/indrayudhsmac/Desktop/COGNIZ-SOLUTIONS/WEEK1-IN C#/ForecastProject/bin/Debug/net9.0/ForecastProject.pdb
+/Users/indrayudhsmac/Desktop/COGNIZ-SOLUTIONS/WEEK1-IN C#/ForecastProject/obj/Debug/net9.0/ForecastProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/indrayudhsmac/Desktop/COGNIZ-SOLUTIONS/WEEK1-IN C#/ForecastProject/obj/Debug/net9.0/ForecastProject.AssemblyInfoInputs.cache
+/Users/indrayudhsmac/Desktop/COGNIZ-SOLUTIONS/WEEK1-IN C#/ForecastProject/obj/Debug/net9.0/ForecastProject.AssemblyInfo.cs
+/Users/indrayudhsmac/Desktop/COGNIZ-SOLUTIONS/WEEK1-IN C#/ForecastProject/obj/Debug/net9.0/ForecastProject.csproj.CoreCompileInputs.cache
+/Users/indrayudhsmac/Desktop/COGNIZ-SOLUTIONS/WEEK1-IN C#/ForecastProject/obj/Debug/net9.0/ForecastProject.dll
+/Users/indrayudhsmac/Desktop/COGNIZ-SOLUTIONS/WEEK1-IN C#/ForecastProject/obj/Debug/net9.0/refint/ForecastProject.dll
+/Users/indrayudhsmac/Desktop/COGNIZ-SOLUTIONS/WEEK1-IN C#/ForecastProject/obj/Debug/net9.0/ForecastProject.pdb
+/Users/indrayudhsmac/Desktop/COGNIZ-SOLUTIONS/WEEK1-IN C#/ForecastProject/obj/Debug/net9.0/ForecastProject.genruntimeconfig.cache
+/Users/indrayudhsmac/Desktop/COGNIZ-SOLUTIONS/WEEK1-IN C#/ForecastProject/obj/Debug/net9.0/ref/ForecastProject.dll
