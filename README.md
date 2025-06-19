@@ -1,4 +1,8 @@
 # Digital Nurture 4.0 – Deep Skilling (.Net FSE Track)
+> **⚠️ NOTE:**  
+> 👉 The **Java versions have already been uploaded**.  
+> 👉 This repository contains the **equivalent C# implementations**.  
+> 🙏 _Please pardon the duplication._
 
 Welcome to the official repository for the **Digital Nurture 4.0 – Deep Skilling Program** under the **.NET Full Stack Engineering (FSE)** track, organized by **Cognizant** in collaboration with **KIIT University**.
 
